@@ -63,15 +63,5 @@ Generator <---- Noise Input              |
 
 ---
 
-## Submission Info
-- [ ] Source code and responses uploaded to GitHub.
-- [ ] Video demonstration includes code walkthrough and explanation.
-- [ ] README summarizes all 6 questions and responses.
 
-**GitHub Repo Link**: *(Add your repo link here)*
-**Video Link**: *(Add your video link here)*
-
----
-
-Feel free to reach out if you need any additional files or formatting adjustments!
 
